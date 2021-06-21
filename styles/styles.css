@@ -1,0 +1,10 @@
+.clockHolder{
+    display: flex;
+    flex-direction: row;
+    font-size: xx-large;
+    justify-content: space-between;
+    max-width: 20vh;
+    align-self: center;
+    max-height: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
